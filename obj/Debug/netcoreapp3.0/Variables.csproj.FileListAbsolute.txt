@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\bin\Debug\netcoreapp3.0\Variables.exe
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\bin\Debug\netcoreapp3.0\Variables.deps.json
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\bin\Debug\netcoreapp3.0\Variables.runtimeconfig.json
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\bin\Debug\netcoreapp3.0\Variables.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\bin\Debug\netcoreapp3.0\Variables.dll
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\bin\Debug\netcoreapp3.0\Variables.pdb
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\obj\Debug\netcoreapp3.0\Variables.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\obj\Debug\netcoreapp3.0\Variables.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\obj\Debug\netcoreapp3.0\Variables.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\obj\Debug\netcoreapp3.0\Variables.dll
+C:\Users\marla\workspace\c#\BobTaborTut\Variables\obj\Debug\netcoreapp3.0\Variables.pdb
